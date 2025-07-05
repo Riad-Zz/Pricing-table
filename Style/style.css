@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    border: 0%;
+}
+
+.container{
+    height: 250px;
+    border: 5px solid orange ;
+    background-color: rgb(221, 212, 212);
+    width: 400px;
+    display: inline-block ;
+    margin: 20px;
+    margin-top: 350px;
+    box-shadow: 5px 5px 50px rgb(192, 159, 98);
+    
+}
+.cn1{
+    margin-left: 200px;
+}
+.cn2 , .cn3{
+    margin-left: 100px;
+}
+
+.type{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace; 
+}
+
+.price{
+    font-size: 30px; 
+    text-align: center; 
+    font-weight: 900;
+    margin-top: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.benifit{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+    margin-left: 150px;
+    margin-top: 30px;
+    background-color: orange; 
+    color: black;
+    height: 30px;
+    width: 100px;
+}
